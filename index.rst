@@ -10,10 +10,9 @@ Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_
 
 .. _`Hitchhiker's Guide to Python!`: http://docs.python-guide.org/en/latest/
 
-.. include:: gittip.rst
-
 .. toctree::
    :maxdepth: 2
+
 
 Indices and tables
 ==================
@@ -22,3 +21,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. include:: gittip.rst
