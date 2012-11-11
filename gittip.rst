@@ -1,7 +1,9 @@
 Donate
 ======
 
-Like this guide? Please consider supporting the author's work via gittip:
+Like this guide? Please consider supporting the author's work via `Gittip`_:
+
+.. _`Gittip`: https://gittip.com
 
 .. raw:: html
 
