@@ -13,6 +13,7 @@ Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_
 .. toctree::
    :maxdepth: 2
 
+   what_is_plone
 
 Indices and tables
 ==================
