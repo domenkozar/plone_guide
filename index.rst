@@ -6,11 +6,11 @@
 Opinionated Guide to Plone
 ==========================
 
-Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_.
+Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_
 
 .. _`Hitchhiker's Guide to Python!`: http://docs.python-guide.org/en/latest/
 
-.. include:: gittip.html
+.. include:: gittip.rst
 
 .. toctree::
    :maxdepth: 2
