@@ -14,6 +14,7 @@ Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_
    :maxdepth: 2
 
    what_is_plone
+   why_choose_plone
 
 License
 =======
