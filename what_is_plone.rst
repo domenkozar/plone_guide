@@ -12,7 +12,7 @@ Plone is many things to many people. Here is what I think it is, followed by wha
 My Definition(s)
 ----------------
 
-As said above, Plone is many things to many people. So what is it to me? Here are a few definitions I like:
+As I said above, Plone is many things to many people. So what is it to me? Here are a few definitions I like:
 
 - **Plone is a CMS web application written in Python.**
 
