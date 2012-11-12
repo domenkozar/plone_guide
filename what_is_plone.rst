@@ -29,7 +29,7 @@ The above is nice, but not altogether true. If Plone were entirely a hosted appl
 Spin
 ~~~~
 
-Of course, I like a good spin[4]_:
+Of course, I like a good spin: [4]_
 
 - **Plone is the best available Python-based web content management system available, hands down.**
 
