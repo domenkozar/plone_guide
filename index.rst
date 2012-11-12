@@ -23,3 +23,5 @@ Indices and tables
 * :ref:`search`
 
 .. include:: gittip.rst
+
+.. include:: license.rst
