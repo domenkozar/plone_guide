@@ -74,7 +74,7 @@ Software
 .. image:: https://raw.github.com/aclark4life/plone_guide/master/zope_less_hi_res.jpg
     :align: center
 
-As is common in open source, Plone is built on top of many other open source components. Primarily:
+As is common in open source, Plone is built on top of many other open source technologies. Primarily:
 
 - **Python (The Python Programming Language)**
 - **Zope (The Z Object Publishing Environment)** [5]_
