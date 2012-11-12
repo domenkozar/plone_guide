@@ -20,7 +20,7 @@ But then you have to explain "CMS". So how about:
 
 - **Plone is a web content management system written in Python.**
 
-I like this one, except the concept of "CMS" (content management system) is a bit dated. So how about:
+I like this one, except the concept of "CMS" (content management system) is dated. So how about:
 
 - **Plone is a web application that makes it easy to build a public-facing or private intranet website.**
 
