@@ -5,7 +5,9 @@ Plone is many things to many people. Here is what I think it is, followed by wha
 
 .. Note::
 
-    I have more than one definition. But TL;DR: Plone is an open source web content management system written in Python. It is developed and supported by a worldwide community of hundreds of "Plone companies" as well as individual volunteers. It is used by thousands of organizations and individuals all over the world, in every professional sector imaginable (e.g. business, government, non-profit, etc.)
+    I have more than one definition. But TL;DR:
+
+    Plone is an open source web content management system written in Python. It is developed and supported by a worldwide community of hundreds of "Plone companies" as well as individual volunteers. It is used by thousands of organizations and individuals all over the world, in every professional sector imaginable (e.g. business, government, non-profit, etc.)
 
 My Definition(s)
 ----------------
@@ -23,6 +25,24 @@ I like this one, except the concept of "CMS" (content management system) is a bi
 - **Plone is a web application that makes it easy to build a public-facing or private intranet website.**
 
 The above is nice, but not altogether true. If Plone were entirely a hosted application with one click installable themes (e.g. ploud.com) then it would be closer to true. The reason the above statement is not entirely true (as we'd like it to be marketing-wise) is complicated and will not be addressed here [3]_.
+
+Spin
+~~~~
+
+Of course, I always like to add a good spin:
+
+- **Plone is the best available Python-based web content management system available, hands down.**
+
+While I firmly believe the above to be true, I don't always lead with that definition, because I'm sure there are others that believe the same about their Python-based CMS of choice (e.g. Django CMS).
+
+Community
+~~~~~~~~~
+
+One thing I don't mind leading with, and standing behind against all competition:
+
+- **Plone** has the best community of any open source community you will ever find, anywhere, ever.
+
+I'm not entirely sure how this came to be, and it could just be my bias, but: I'm loosely a member of at least a half dozen such communities and am always blown away by the activity of this community.
 
 Other Definitions
 -----------------
