@@ -20,7 +20,7 @@ But then you have to explain "CMS". So how about:
 
 I like this one, except the concept of "CMS" (content management system) is a bit dated. So how about:
 
-- **Plone is a web application that makes it easy to build a website.**
+- **Plone is a web application that makes it easy to build a public-facing or private intranet website.**
 
 The above is nice, but not altogether true. If Plone were entirely a hosted application with one click installable themes (e.g. ploud.com) then it would be closer to true. The reason the above statement is not entirely true (as we'd like it to be marketing-wise) is complicated and will not be addressed here [3]_.
 
