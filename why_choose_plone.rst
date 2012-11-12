@@ -14,6 +14,6 @@ In other words, one reason you may choose Plone is because Plone allows you to w
 
 .. [2] Via python.org: "Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs."
 
-.. [3] Plone is 10+ years old so not all of the code is fun to deal with. However, this guide along with documentation from the project itself (e.g. http://developer.plone.org/) aim to help you avoid potential pain points.
+.. [3] Plone is 10+ years old so not all of the code is fun to deal with. However, this guide along with documentation from the project itself (e.g. http://developer.plone.org/) aim to help you avoid potential problems.
 
 .. include:: comments.rst
