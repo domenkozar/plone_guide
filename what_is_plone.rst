@@ -3,6 +3,8 @@ What is Plone?
 
 Plone is many things to many people. Here is what I think it is, followed by what other people think it is [1]_, followed by comments from the public (where you may add what you think it is [2]_). I have more than one definition, but TL;DR:
 
+.. image:: https://raw.github.com/aclark4life/plone_guide/master/plone-logo-128-white-bg.png
+
 .. Note::
 
     Plone is an open source web content management system written in Python. It is developed and supported by a worldwide community of hundreds of "Plone companies" as well as individual volunteers. It is used by thousands of organizations and individuals all over the world, in every professional sector imaginable (e.g. business, government, non-profit, etc.)
