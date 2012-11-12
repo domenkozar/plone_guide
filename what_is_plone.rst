@@ -47,6 +47,41 @@ Other Definitions
 
 - From plone.org, a "state-of-the-art open source CMS."
 
+The Stack
+---------
+
+Hardware
+~~~~~~~~
+
+I won't cover the hardware stack here, but suffice it to say that Plone runs on all modern desktop and server operating systems.
+
+Human 
+~~~~~
+
+I won't cover the human stack here, but if you are interested please see:
+
+- http://blog.aclark.net/2012/10/23/plone-secrets-5-the-community/
+
+Software
+~~~~~~~~
+
+As is common in open source, Plone is built on top of many other open source components. Primarily:
+
+- Python (The Python Programming Language)
+- Zope (The Z Object Publishing Environment [5]_)
+
+It is also built on many technologies that are a subset of the above two technologies:
+
+- PIL (Python Imaging Library)
+- CMF (Zope Content Management Framework)
+
+Lastly, it is built using many popular web-specific open source technologies:
+
+- JQuery (JavaScript Framework) 
+- TinyMCE (WYSIWYG editor)
+
+This list is not all inclusive, however it should give you an idea of how much technology goes in to building an application like Plone.
+
 .. [1] More accurately, what I think other people think it is.
 
 .. [2] Good or bad, your comments are welcome as long as they are courteous.
@@ -54,5 +89,7 @@ Other Definitions
 .. [3] Yet, but maybe at some point in the future.
 
 .. [4] Marketing or public relations-speak, http://en.wikipedia.org/wiki/Spin_%28public_relations%29
+
+.. [5] Zope provides many popular and widely used open source technologies e.g. Zope2, ZODB, Zope Toolkit, etc.
 
 .. include:: comments.rst
