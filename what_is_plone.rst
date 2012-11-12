@@ -71,7 +71,7 @@ I won't cover the human stack here, but if you are interested please see:
 Software
 ~~~~~~~~
 
-.. image:: https://raw.github.com/aclark4life/plone_guide/master/zopeHIres.jpg
+.. image:: https://raw.github.com/aclark4life/plone_guide/master/zope_less_hi_res.jpg
     :align: center
 
 As is common in open source, Plone is built on top of many other open source components. Primarily:
