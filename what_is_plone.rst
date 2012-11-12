@@ -38,7 +38,7 @@ While I firmly believe the above to be true, I don't always lead with that defin
 Community
 ~~~~~~~~~
 
-One thing I don't mind leading with, and standing behind against all the competition:
+One thing I don't mind leading with, and standing behind amidst all the competition:
 
 - **Plone has the best community of any open source community you will ever find, anywhere, ever.**
 
