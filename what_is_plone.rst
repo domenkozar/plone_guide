@@ -2,7 +2,7 @@ What is Plone?
 ==============
 
 .. image:: https://raw.github.com/aclark4life/plone_guide/master/plone-logo-128-white-bg.png
-   :align: center
+    :align: center
 
 Plone is many things to many people. Here is what I think it is, followed by what other people think it is [1]_, followed by comments from the public (where you may add what you think it is [2]_). TL;DR:
 
@@ -29,6 +29,9 @@ The above is nice, but not altogether true. If Plone were entirely a hosted appl
 
 Spin
 ~~~~
+
+.. image:: https://raw.github.com/aclark4life/plone_guide/master/python-logo-master-v3-TM.png
+    :align: center
 
 Of course, I like a good spin: [4]_
 
@@ -67,6 +70,9 @@ I won't cover the human stack here, but if you are interested please see:
 
 Software
 ~~~~~~~~
+
+.. image:: https://raw.github.com/aclark4life/plone_guide/master/VlogoWhite250.gif
+    :align: center
 
 As is common in open source, Plone is built on top of many other open source components. Primarily:
 
