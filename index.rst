@@ -22,6 +22,6 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-.. include:: gittip.rst
-
 .. include:: license.rst
+
+.. include:: gittip.rst
