@@ -53,8 +53,8 @@ Other Definitions
 
 - From plone.org, a "state-of-the-art open source CMS."
 
-The Stack(s)
-------------
+The Stack
+---------
 
 Hardware
 ~~~~~~~~
