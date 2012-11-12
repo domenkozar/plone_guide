@@ -1,7 +1,7 @@
 
 Like this guide? Please consider supporting the author's work via `Gittip`_:
 
-.. _`Gittip`: https://gittip.com
+.. _`Gittip`: https://www.gittip.com/aclark4life
 
 .. raw:: html
 
