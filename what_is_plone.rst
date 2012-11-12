@@ -33,7 +33,7 @@ Spin
 .. image:: https://raw.github.com/aclark4life/plone_guide/master/python-logo-master-v3-TM.png
     :align: center
 
-Of course, I like a good spin: [4]_
+Of course, I like to spin: [4]_
 
 - **Plone is the best Python-based web content management system available, hands down.**
 
