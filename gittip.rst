@@ -1,5 +1,3 @@
-Donate
-======
 
 Like this guide? Please consider supporting the author's work via `Gittip`_:
 
