@@ -79,12 +79,12 @@ As is common in open source, Plone is built on top of many other open source com
 - **Python (The Python Programming Language)**
 - **Zope (The Z Object Publishing Environment)** [5]_
 
-It is also built on many technologies that are a subset of the above two technologies:
+But also technologies that are a subset of the above two technologies:
 
 - **PIL (Python Imaging Library)**
 - **CMF (Zope Content Management Framework)**
 
-Lastly, it is built using many popular web-specific open source technologies:
+Lastly it is built with many popular web-specific open source technologies:
 
 - **JQuery (JavaScript Framework)**
 - **TinyMCE (WYSIWYG editor)**
