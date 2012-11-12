@@ -15,13 +15,16 @@ Inspired by Kenneth Reitz's `Hitchhiker's Guide to Python!`_
 
    what_is_plone
 
+License
+=======
+
+.. include:: license.rst
+
 Indices and tables
 ==================
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. include:: license.rst
 
 .. include:: gittip.rst
