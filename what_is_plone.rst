@@ -29,7 +29,7 @@ Spin
 
 Of course, I like a good spin: [4]_
 
-- **Plone is the best available Python-based web content management system available, hands down.**
+- **Plone is the best Python-based web content management system available, hands down.**
 
 While I firmly believe the above to be true, I don't always lead with that definition, because I'm sure there are others that believe the same about their Python-based CMS of choice (e.g. Django CMS).
 
