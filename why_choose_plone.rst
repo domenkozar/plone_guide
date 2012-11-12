@@ -2,7 +2,7 @@
 Why Choose Plone?
 =================
 
-In my case, I came to Plone first then Python [1]_. However now I'm interested in bringing folks to Plone through Python. So let's have some fun and take the definition of Python from python.org [2]_ and replace it with Plone:
+In my case, I came to Plone first then Python [1]_. But now I'm interested in bringing folks to Plone through Python. So let's have some fun and take the definition of Python from python.org [2]_ and replace it with Plone:
 
 .. Note::
 
