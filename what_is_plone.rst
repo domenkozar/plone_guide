@@ -55,7 +55,4 @@ Other Definitions
 
 .. [4] Marketing or public relations-speak, http://en.wikipedia.org/wiki/Spin_%28public_relations%29
 
-Comments
---------
-
-.. include:: disqus.rst
+.. include:: comments.rst
