@@ -7,20 +7,20 @@ Plone is many things to many people. Here I define what I think it is, followed 
 
     I have more than one definition.
 
-My Definition
--------------
+My Definition(s)
+----------------
 
 As said above, Plone is many things to many people. So what is it to me? Here are a few definitions I like:
 
-- Plone is a CMS web application written in Python.
+- **Plone is a CMS web application written in Python.**
 
 But then you have to explain "CMS". So how about:
 
-- Plone is a web content management system written in Python.
+- **Plone is a web content management system written in Python.**
 
 I like this one, except the concept of "CMS" (content management system) is a bit dated. So how about:
 
-- Plone is a web application that makes it easy to build a website.
+- **Plone is a web application that makes it easy to build a website.**
 
 The above is nice, but not altogether true. If Plone were entirely a hosted application with one click installable themes (e.g. ploud.com) then it would be closer to true. The reason the above statement is not entirely true (as we'd like it to be marketing-wise) is complicated and will not be addressed here [3]_.
 
