@@ -1,7 +1,4 @@
 
-Comments
-========
-
 .. raw:: html
 
         <div id="disqus_thread"></div>
