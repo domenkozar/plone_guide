@@ -8,6 +8,9 @@ In my case, I came to Plone first then Python [1]_. But now I'm interested in br
 
     Plone is a web application that lets you work more quickly and create web content more effectively. You can learn to use Plone and see almost immediate gains in productivity and lower maintenance costs.
 
+Because it's Python
+-------------------
+
 In other words, one reason you may choose Plone is because Plone allows you to write Python code, and writing Python code is fun and satisfying [3]_. Why did you choose or not choose Plone? Or, why did you quit or not quit using Plone? Let me know in the comments.
 
 .. [1] By building this website with Plone circa early 2000s: http://afni.nimh.nih.gov/.
