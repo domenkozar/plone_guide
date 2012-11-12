@@ -47,8 +47,8 @@ Other Definitions
 
 - From plone.org, a "state-of-the-art open source CMS."
 
-The Stack
----------
+The Stack(s)
+------------
 
 Hardware
 ~~~~~~~~
@@ -67,18 +67,18 @@ Software
 
 As is common in open source, Plone is built on top of many other open source components. Primarily:
 
-- Python (The Python Programming Language)
-- Zope (The Z Object Publishing Environment [5]_)
+- **Python (The Python Programming Language)**
+- **Zope (The Z Object Publishing Environment [5]_)**
 
 It is also built on many technologies that are a subset of the above two technologies:
 
-- PIL (Python Imaging Library)
-- CMF (Zope Content Management Framework)
+- **PIL (Python Imaging Library)**
+- **CMF (Zope Content Management Framework)**
 
 Lastly, it is built using many popular web-specific open source technologies:
 
-- JQuery (JavaScript Framework) 
-- TinyMCE (WYSIWYG editor)
+- **JQuery (JavaScript Framework)**
+- **TinyMCE (WYSIWYG editor)**
 
 This list is not all inclusive, however it should give you an idea of how much technology goes in to building an application like Plone.
 
