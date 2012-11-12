@@ -40,7 +40,7 @@ Community
 
 One thing I don't mind leading with, and standing behind against all competition:
 
-- **Plone** has the best community of any open source community you will ever find, anywhere, ever.
+- **Plone has the best community of any open source community you will ever find, anywhere, ever.**
 
 I'm not entirely sure how this came to be, and it could just be my bias, but: I'm loosely a member of at least a half dozen such communities and am always blown away by the activity of this community.
 
