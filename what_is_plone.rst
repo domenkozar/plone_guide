@@ -24,7 +24,7 @@ I like this one, except the concept of "CMS" (content management system) is date
 
 - **Plone is a web application that makes it easy to build a public-facing or private intranet website.**
 
-The above is nice, but not altogether true. If Plone were entirely a hosted application with one click installable themes (e.g. ploud.com) then it would be closer to true. The reason the above statement is not entirely true (as we'd like it to be marketing-wise) is complicated and will not be addressed here [3]_.
+The above is nice, but not altogether true. If Plone were entirely a hosted application with one click installable themes (e.g. http://ploud.com) then it would be closer to true. The reason the above statement is not entirely true (as we'd like it to be marketing-wise) is complicated and will not be addressed here [3]_.
 
 Spin
 ~~~~
