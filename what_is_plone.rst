@@ -42,7 +42,7 @@ One thing I don't mind leading with, and standing behind against all competition
 
 - **Plone has the best community of any open source community you will ever find, anywhere, ever.**
 
-I'm not entirely sure how this came to be, and it could just be my bias, but: I'm loosely a member of at least a half dozen such communities and am always blown away by the activity of this community.
+I'm not entirely sure how this came to be, and it could just be my bias, but: I'm loosely a member of at least a half dozen such communities and am always blown away by the activity of this community. The reason the above statement is entirely true is complicated and will not be addressed here [3].
 
 Other Definitions
 -----------------
