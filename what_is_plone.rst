@@ -89,7 +89,7 @@ Lastly, it is built using many popular web-specific open source technologies:
 - **JQuery (JavaScript Framework)**
 - **TinyMCE (WYSIWYG editor)**
 
-This list is not all inclusive, however it should give you an idea of how much technology goes in to building an application like Plone.
+This list is not all-inclusive, but it should give you an idea of how much technology is bundled with an application like Plone.
 
 .. [1] More accurately, what I think other people think it is.
 
