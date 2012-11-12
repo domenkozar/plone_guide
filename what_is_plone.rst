@@ -90,6 +90,6 @@ This list is not all inclusive, however it should give you an idea of how much t
 
 .. [4] Marketing or public relations-speak, http://en.wikipedia.org/wiki/Spin_%28public_relations%29
 
-.. [5] Zope provides many popular and widely used open source technologies e.g. Zope2, ZODB, Zope Toolkit, etc.
+.. [5] Zope provides many popular and widely used open source technologies e.g. Zope2, ZODB, Zope Toolkit, etc. Also, while Zope is technically an acronym you will frequently see it spelled with normal case.
 
 .. include:: comments.rst
