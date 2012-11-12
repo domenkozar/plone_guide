@@ -1,10 +1,10 @@
 What is Plone?
 ==============
 
-Plone is many things to many people. Here is what I think it is, followed by what other people think it is [1]_, followed by comments from the public (where you may add what you think it is [2]_). I have more than one definition, but TL;DR:
-
 .. image:: https://raw.github.com/aclark4life/plone_guide/master/plone-logo-128-white-bg.png
    :align: center
+
+Plone is many things to many people. Here is what I think it is, followed by what other people think it is [1]_, followed by comments from the public (where you may add what you think it is [2]_). I have more than one definition, but TL;DR:
 
 .. Note::
 
